@@ -1,0 +1,12 @@
+name: HeavenWarsBeta
+version: '0.0.1'
+main: drraiker.heavenWarsBeta.HeavenWarsBeta
+api-version: '1.20'
+permissions:
+  heaven-wars-beta.admin:
+    default: op
+commands:
+  heaven-wars-beta:
+    aliases:
+      - hw-beta
+      - hw
